@@ -1,4 +1,4 @@
-<h1>Hi, I'm UBamtol!🌰</h1>
+<h1>Hi, I'm UBamtol🌰</h1>
 <br/>
 <h2>My BOJ Tier🏆</h2>
 
